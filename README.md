@@ -1,5 +1,5 @@
-## Jack and Kathy: A Message from Tech Support
+## Cabage Weather 
 
-1. DO NOT CLICK ON ANYTHING YOU DO NOT RECOGNIZE
-2. DO NOT CLICK ON URLs FROM SOMEONE OR SOMETHING YOU DO NOT RECOGNIZE
-3. WHEN IN DOUBT, CALL TECH SUPPORT
+25F
+Snow in 5 hours
+Currently: snowing
