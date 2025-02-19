@@ -1,7 +1,12 @@
-## Cabage Weather 
+### Current Conditions 2025-02-18T21:34:15.141-05:00
 
-25F
+Temperature: 29.20 F
 
-Forecast: Snow in 5 hours
+Feels like: 29.20 F
 
-Currently: snowing
+Humidity: 80 %
+
+Wind Direction: N
+
+Windspeed: 2.9 mph
+
