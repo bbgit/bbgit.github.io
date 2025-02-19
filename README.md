@@ -1,6 +1,6 @@
-### Current Conditions 2025-02-18T21:34:15.141-05:00
+### Conditions as of February 18, 2025 at 8:46:58 PM CST 
 
-Temperature: 29.20 F
+Temperature: 29.20 &deg; F
 
 Feels like: 29.20 F
 
