@@ -1,14 +1,14 @@
-### Conditions as of February 19, 2025 at 7:02:16 PM CST 
+### Conditions as of February 19, 2025 at 7:07:37 PM CST 
 
-Temperature: 24.10 &deg;F
+Temperature: 24.00 &deg;F
 
-Feels like: 24.10 &deg;F
+Feels like: 24.00 &deg;F
 
-Humidity: 73%
+Humidity: 74%
 
-Wind Direction: NNW
+Wind Direction: NNE
 
-Windspeed: 2.5 mph
+Windspeed: 2.0 mph
 
-Wind Gust: 5.8 mph
+Wind Gust: 2.9 mph
 
