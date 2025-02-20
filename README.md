@@ -1,16 +1,16 @@
-### Conditions as of February 20, 2025 at 12:18:01 AM CST 
+### Conditions as of February 20, 2025 at 12:23:21 AM CST 
 
-Temperature: 20.20 &deg;F
+Temperature: 20.10 &deg;F
 
-Feels like: 20.20 &deg;F
+Feels like: 20.10 &deg;F
 
-Humidity: 85%
+Humidity: 84%
 
 Wind Direction: N
 
-Windspeed: 0.2 mph
+Windspeed: 1.1 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 1.6 mph
 
 ---
 
