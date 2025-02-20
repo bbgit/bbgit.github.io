@@ -1,4 +1,4 @@
-### Conditions as of February 19, 2025 at 9:01:45 PM CST 
+### Conditions as of February 19, 2025 at 9:05:44 PM CST 
 
 Temperature: 22.30 &deg;F
 
@@ -12,5 +12,7 @@ Windspeed: 4.0 mph
 
 Wind Gust: 5.1 mph
 
-!(https://bbgit.github.io/images/latest.jpeg)
+---
+
+<img src="./images/latest.jpeg"/>
 
