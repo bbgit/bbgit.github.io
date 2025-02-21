@@ -1,8 +1,8 @@
-### Conditions as of February 21, 2025 at 7:47:42 AM CST 
+### Conditions as of February 21, 2025 at 7:53:02 AM CST 
 
-Temperature: 8.10 &deg;F
+Temperature: 8.50 &deg;F
 
-Feels like: 8.10 &deg;F
+Feels like: 8.50 &deg;F
 
 Humidity: 89%
 
