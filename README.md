@@ -1,10 +1,10 @@
-### Conditions as of February 22, 2025 at 5:40:34 PM CST 
+### Conditions as of February 22, 2025 at 5:45:54 PM CST 
 
-Temperature: 31.50 &deg;F
+Temperature: 31.20 &deg;F
 
-Feels like: 31.50 &deg;F
+Feels like: 31.20 &deg;F
 
-Humidity: 89%
+Humidity: 90%
 
 Wind Direction: SSW
 
