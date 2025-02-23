@@ -1,8 +1,8 @@
-### Conditions as of February 22, 2025 at 8:36:50 PM CST 
+### Conditions as of February 22, 2025 at 8:42:11 PM CST 
 
-Temperature: 26.00 &deg;F
+Temperature: 25.90 &deg;F
 
-Feels like: 26.00 &deg;F
+Feels like: 25.90 &deg;F
 
 Humidity: 94%
 
