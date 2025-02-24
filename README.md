@@ -1,16 +1,16 @@
-### Conditions as of February 24, 2025 at 1:11:34 PM CST 
+### Conditions as of February 24, 2025 at 1:16:55 PM CST 
 
-Temperature: 60.40 &deg;F
+Temperature: 61.50 &deg;F
 
-Feels like: 60.40 &deg;F
+Feels like: 61.50 &deg;F
 
-Humidity: 32%
+Humidity: 34%
 
 Wind Direction: NE
 
-Windspeed: 0.4 mph
+Windspeed: 1.8 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 2.9 mph
 
 ---
 
