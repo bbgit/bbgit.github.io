@@ -1,8 +1,8 @@
-### Conditions as of February 25, 2025 at 12:50:47 AM CST 
+### Conditions as of February 25, 2025 at 12:56:07 AM CST 
 
-Temperature: 32.40 &deg;F
+Temperature: 32.30 &deg;F
 
-Feels like: 32.40 &deg;F
+Feels like: 32.30 &deg;F
 
 Humidity: 96%
 
