@@ -1,10 +1,10 @@
-### Conditions as of February 26, 2025 at 6:38:17 AM CST 
+### Conditions as of February 26, 2025 at 6:39:38 AM CST 
 
 Temperature: 29.60 &deg;F
 
 Feels like: 29.60 &deg;F
 
-Humidity: 98%
+Humidity: 99%
 
 Wind Direction: ENE
 
