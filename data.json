@@ -1,10 +1,10 @@
 {
-  "direction": "ENE",
-  "windDegrees": "70",
+  "direction": "SSW",
+  "windDegrees": "204",
   "speedMPH": "0.0",
-  "gustSpeedMPH": "0.7",
+  "gustSpeedMPH": "0.0",
   "speedMetersPerSec": 0,
-  "gustSpeedMetersPerSec": 0.3,
+  "gustSpeedMetersPerSec": 0,
   "temperatureCelsius": "6.00",
   "humidity": "89",
   "feelsLike": {
