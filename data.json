@@ -1,5 +1,16 @@
 {
-  "timeDifference": {
-    "minutes": 1.4787833333333333
-  }
+  "direction": "SSW",
+  "windDegrees": "198",
+  "speedMPH": "0.0",
+  "gustSpeedMPH": "0.0",
+  "speedMetersPerSec": 0,
+  "gustSpeedMetersPerSec": 0,
+  "temperatureCelsius": "6.94",
+  "humidity": "87",
+  "feelsLike": {
+    "windChillTempF": "44.50",
+    "tempF": "44.50",
+    "windspeedMph": "0.0"
+  },
+  "temperatureF": "44.50"
 }
