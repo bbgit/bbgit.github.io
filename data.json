@@ -1,16 +1,16 @@
 {
-  "direction": "WNW",
-  "windDegrees": "292",
-  "speedMPH": "0.4",
-  "gustSpeedMPH": "0.7",
-  "speedMetersPerSec": 0.2,
-  "gustSpeedMetersPerSec": 0.3,
+  "direction": "ESE",
+  "windDegrees": "105",
+  "speedMPH": "0.2",
+  "gustSpeedMPH": "1.6",
+  "speedMetersPerSec": 0.1,
+  "gustSpeedMetersPerSec": 0.7,
   "temperatureCelsius": "24.61",
-  "humidity": "26",
+  "humidity": "27",
   "feelsLike": {
     "windChillTempF": "76.30",
     "tempF": "76.30",
-    "windspeedMph": "0.4"
+    "windspeedMph": "0.2"
   },
   "temperatureF": "76.30"
 }
