@@ -5,12 +5,12 @@
   "gustSpeedMPH": "0.0",
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
-  "temperatureCelsius": "1.17",
+  "temperatureCelsius": "1.11",
   "humidity": "97",
   "feelsLike": {
-    "windChillTempF": "34.10",
-    "tempF": "34.10",
+    "windChillTempF": "34.00",
+    "tempF": "34.00",
     "windspeedMph": "0.0"
   },
-  "temperatureF": "34.10"
+  "temperatureF": "34.00"
 }
