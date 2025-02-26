@@ -1,16 +1,16 @@
 {
   "direction": "SSW",
-  "windDegrees": "210",
-  "speedMPH": "0.4",
-  "gustSpeedMPH": "0.7",
-  "speedMetersPerSec": 0.2,
-  "gustSpeedMetersPerSec": 0.3,
-  "temperatureCelsius": "17.22",
+  "windDegrees": "195",
+  "speedMPH": "0.0",
+  "gustSpeedMPH": "0.0",
+  "speedMetersPerSec": 0,
+  "gustSpeedMetersPerSec": 0,
+  "temperatureCelsius": "17.11",
   "humidity": "48",
   "feelsLike": {
-    "windChillTempF": "63.00",
-    "tempF": "63.00",
-    "windspeedMph": "0.4"
+    "windChillTempF": "62.80",
+    "tempF": "62.80",
+    "windspeedMph": "0.0"
   },
-  "temperatureF": "63.00"
+  "temperatureF": "62.80"
 }
