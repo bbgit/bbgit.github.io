@@ -1,6 +1,6 @@
 {
-  "direction": "SSE",
-  "windDegrees": "165",
+  "direction": "W",
+  "windDegrees": "260",
   "speedMPH": "0.4",
   "gustSpeedMPH": "0.7",
   "speedMetersPerSec": 0.2,
