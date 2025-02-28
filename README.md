@@ -1,16 +1,16 @@
-### Conditions as of February 28, 2025 at 10:49:16 AM CST 
+### Conditions as of February 28, 2025 at 10:54:36 AM CST 
 
-Temperature: 59.20 &deg;F
+Temperature: 59.10 &deg;F
 
-Feels like: 59.20 &deg;F
+Feels like: 59.10 &deg;F
 
 Humidity: 36%
 
-Wind Direction: E
+Wind Direction: SW
 
-Windspeed: 3.1 mph
+Windspeed: 4.5 mph
 
-Wind Gust: 3.8 mph
+Wind Gust: 5.8 mph
 
 ---
 
