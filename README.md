@@ -1,16 +1,16 @@
-### Conditions as of March 1, 2025 at 10:01:49 AM CST 
+### Conditions as of March 1, 2025 at 10:07:09 AM CST 
 
-Temperature: 51.10 &deg;F
+Temperature: 51.80 &deg;F
 
-Feels like: 51.10 &deg;F
+Feels like: 51.80 &deg;F
 
-Humidity: 45%
+Humidity: 44%
 
-Wind Direction: ENE
+Wind Direction: NE
 
-Windspeed: 4.7 mph
+Windspeed: 3.8 mph
 
-Wind Gust: 5.8 mph
+Wind Gust: 4.5 mph
 
 ---
 
