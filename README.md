@@ -1,12 +1,12 @@
-### Conditions as of February 28, 2025 at 6:54:36 PM CST 
+### Conditions as of February 28, 2025 at 6:59:56 PM CST 
 
-Temperature: 48.70 &deg;F
+Temperature: 48.50 &deg;F
 
-Feels like: 48.70 &deg;F
+Feels like: 48.50 &deg;F
 
 Humidity: 67%
 
-Wind Direction: ENE
+Wind Direction: WNW
 
 Windspeed: 0.0 mph
 
