@@ -1,10 +1,10 @@
-### Conditions as of March 2, 2025 at 2:03:10 AM CST 
+### Conditions as of March 2, 2025 at 2:08:30 AM CST 
 
-Temperature: 27.10 &deg;F
+Temperature: 26.80 &deg;F
 
-Feels like: 27.10 &deg;F
+Feels like: 26.80 &deg;F
 
-Humidity: 71%
+Humidity: 70%
 
 Wind Direction: NE
 
