@@ -1,8 +1,8 @@
-### Conditions as of March 3, 2025 at 9:01:54 PM CST 
+### Conditions as of March 3, 2025 at 9:07:14 PM CST 
 
-Temperature: 35.60 &deg;F
+Temperature: 35.30 &deg;F
 
-Feels like: 35.60 &deg;F
+Feels like: 35.30 &deg;F
 
 Humidity: 77%
 
