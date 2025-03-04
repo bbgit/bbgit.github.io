@@ -1,16 +1,16 @@
-### Conditions as of March 4, 2025 at 11:53:39 AM CST 
+### Conditions as of March 4, 2025 at 11:58:58 AM CST 
 
-Temperature: 71.40 &deg;F
+Temperature: 72.50 &deg;F
 
-Feels like: 71.40 &deg;F
+Feels like: 72.50 &deg;F
 
-Humidity: 46%
+Humidity: 45%
 
-Wind Direction: SW
+Wind Direction: WSW
 
-Windspeed: 4.0 mph
+Windspeed: 3.8 mph
 
-Wind Gust: 4.5 mph
+Wind Gust: 5.1 mph
 
 ---
 
