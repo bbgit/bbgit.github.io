@@ -1,12 +1,12 @@
-### Conditions as of March 3, 2025 at 7:04:33 PM CST 
+### Conditions as of March 3, 2025 at 7:09:54 PM CST 
 
-Temperature: 39.50 &deg;F
+Temperature: 39.30 &deg;F
 
-Feels like: 39.50 &deg;F
+Feels like: 39.30 &deg;F
 
-Humidity: 71%
+Humidity: 70%
 
-Wind Direction: SSW
+Wind Direction: S
 
 Windspeed: 0.0 mph
 
