@@ -1,16 +1,16 @@
-### Conditions as of March 6, 2025 at 5:29:09 AM CST 
+### Conditions as of March 6, 2025 at 5:34:29 AM CST 
 
 Temperature: 33.60 &deg;F
 
-Feels like: 30.37 &deg;F
+Feels like: 33.60 &deg;F
 
-Humidity: 80%
+Humidity: 81%
 
 Wind Direction: ENE
 
-Windspeed: 3.6 mph
+Windspeed: 0.9 mph
 
-Wind Gust: 4.5 mph
+Wind Gust: 1.6 mph
 
 ---
 
