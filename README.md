@@ -1,8 +1,8 @@
-### Conditions as of March 7, 2025 at 5:57:11 AM CST 
+### Conditions as of March 7, 2025 at 6:02:31 AM CST 
 
-Temperature: 30.60 &deg;F
+Temperature: 30.50 &deg;F
 
-Feels like: 30.60 &deg;F
+Feels like: 30.50 &deg;F
 
 Humidity: 95%
 
