@@ -1,8 +1,8 @@
-### Conditions as of March 6, 2025 at 9:40:54 PM CST 
+### Conditions as of March 6, 2025 at 9:46:14 PM CST 
 
-Temperature: 29.30 &deg;F
+Temperature: 29.00 &deg;F
 
-Feels like: 29.30 &deg;F
+Feels like: 29.00 &deg;F
 
 Humidity: 95%
 
