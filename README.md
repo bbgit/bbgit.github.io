@@ -1,16 +1,16 @@
-### Conditions as of March 7, 2025 at 9:25:12 AM CST 
+### Conditions as of March 7, 2025 at 9:30:31 AM CST 
 
-Temperature: 46.70 &deg;F
+Temperature: 46.80 &deg;F
 
-Feels like: 46.70 &deg;F
+Feels like: 44.80 &deg;F
 
-Humidity: 52%
+Humidity: 51%
 
 Wind Direction: W
 
-Windspeed: 2.7 mph
+Windspeed: 4.5 mph
 
-Wind Gust: 3.8 mph
+Wind Gust: 5.1 mph
 
 ---
 
