@@ -1,10 +1,10 @@
-### Conditions as of March 8, 2025 at 6:10:16 PM CST 
+### Conditions as of March 8, 2025 at 6:15:52 PM CST 
 
-Temperature: 43.80 &deg;F
+Temperature: 43.20 &deg;F
 
-Feels like: 43.80 &deg;F
+Feels like: 43.20 &deg;F
 
-Humidity: 73%
+Humidity: 74%
 
 Wind Direction: ESE
 
