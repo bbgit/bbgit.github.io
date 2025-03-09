@@ -1,12 +1,12 @@
-### Conditions as of March 9, 2025 at 4:52:09 AM CDT 
+### Conditions as of March 9, 2025 at 4:57:29 AM CDT 
 
-Temperature: 36.00 &deg;F
+Temperature: 36.10 &deg;F
 
-Feels like: 36.00 &deg;F
+Feels like: 36.10 &deg;F
 
 Humidity: 89%
 
-Wind Direction: WSW
+Wind Direction: ESE
 
 Windspeed: 0.0 mph
 
