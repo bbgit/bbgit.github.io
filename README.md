@@ -1,10 +1,10 @@
-### Conditions as of March 9, 2025 at 1:54:34 AM CST 
+### Conditions as of March 9, 2025 at 1:59:53 AM CST 
 
-Temperature: 34.50 &deg;F
+Temperature: 34.60 &deg;F
 
-Feels like: 34.50 &deg;F
+Feels like: 34.60 &deg;F
 
-Humidity: 88%
+Humidity: 87%
 
 Wind Direction: NNE
 
