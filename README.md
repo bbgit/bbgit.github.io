@@ -1,16 +1,16 @@
-### Conditions as of March 10, 2025 at 12:32:30 PM CDT 
+### Conditions as of March 10, 2025 at 12:38:03 PM CDT 
 
-Temperature: 65.00 &deg;F
+Temperature: 64.50 &deg;F
 
-Feels like: 65.00 &deg;F
+Feels like: 64.50 &deg;F
 
 Humidity: 25%
 
-Wind Direction: NNE
+Wind Direction: NW
 
-Windspeed: 4.7 mph
+Windspeed: 2.0 mph
 
-Wind Gust: 5.1 mph
+Wind Gust: 3.8 mph
 
 ---
 
