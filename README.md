@@ -1,8 +1,8 @@
-### Conditions as of March 11, 2025 at 6:14:53 AM CDT 
+### Conditions as of March 11, 2025 at 6:20:12 AM CDT 
 
-Temperature: 30.10 &deg;F
+Temperature: 29.80 &deg;F
 
-Feels like: 30.10 &deg;F
+Feels like: 29.80 &deg;F
 
 Humidity: 97%
 
