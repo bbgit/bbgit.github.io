@@ -1,10 +1,10 @@
-### Conditions as of March 10, 2025 at 11:39:56 PM CDT 
+### Conditions as of March 10, 2025 at 11:45:16 PM CDT 
 
-Temperature: 37.40 &deg;F
+Temperature: 37.30 &deg;F
 
-Feels like: 37.40 &deg;F
+Feels like: 37.30 &deg;F
 
-Humidity: 89%
+Humidity: 90%
 
 Wind Direction: ENE
 
