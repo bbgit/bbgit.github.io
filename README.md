@@ -1,12 +1,12 @@
-### Conditions as of March 13, 2025 at 9:48:31 AM CDT 
+### Conditions as of March 13, 2025 at 9:53:51 AM CDT 
 
-Temperature: 58.70 &deg;F
+Temperature: 59.10 &deg;F
 
-Feels like: 58.70 &deg;F
+Feels like: 59.10 &deg;F
 
-Humidity: 68%
+Humidity: 69%
 
-Wind Direction: ENE
+Wind Direction: NNE
 
 Windspeed: 0.0 mph
 
