@@ -1,8 +1,8 @@
-### Conditions as of March 14, 2025 at 5:01:19 AM CDT 
+### Conditions as of March 14, 2025 at 5:06:40 AM CDT 
 
-Temperature: 42.10 &deg;F
+Temperature: 42.00 &deg;F
 
-Feels like: 42.10 &deg;F
+Feels like: 42.00 &deg;F
 
 Humidity: 98%
 
