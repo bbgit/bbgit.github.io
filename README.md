@@ -1,16 +1,16 @@
-### Conditions as of March 14, 2025 at 3:05:52 PM CDT 
+### Conditions as of March 14, 2025 at 3:11:12 PM CDT 
 
-Temperature: 81.00 &deg;F
+Temperature: 79.40 &deg;F
 
-Feels like: 81.00 &deg;F
+Feels like: 79.40 &deg;F
 
-Humidity: 46%
+Humidity: 48%
 
-Wind Direction: S
+Wind Direction: SSW
 
-Windspeed: 3.6 mph
+Windspeed: 6.9 mph
 
-Wind Gust: 5.1 mph
+Wind Gust: 8.1 mph
 
 ---
 
