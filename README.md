@@ -1,12 +1,12 @@
-### Conditions as of March 14, 2025 at 7:41:51 AM CDT 
+### Conditions as of March 14, 2025 at 7:47:12 AM CDT 
 
-Temperature: 43.90 &deg;F
+Temperature: 44.20 &deg;F
 
-Feels like: 43.90 &deg;F
+Feels like: 44.20 &deg;F
 
 Humidity: 98%
 
-Wind Direction: NNE
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
