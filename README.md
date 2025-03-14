@@ -1,10 +1,10 @@
-### Conditions as of March 14, 2025 at 12:45:03 AM CDT 
+### Conditions as of March 14, 2025 at 12:50:23 AM CDT 
 
 Temperature: 45.00 &deg;F
 
 Feels like: 45.00 &deg;F
 
-Humidity: 95%
+Humidity: 96%
 
 Wind Direction: W
 
