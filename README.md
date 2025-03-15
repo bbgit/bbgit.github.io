@@ -1,4 +1,4 @@
-### Conditions as of March 15, 2025 at 5:48:48 PM CDT 
+### Conditions as of March 15, 2025 at 5:54:08 PM CDT 
 
 Temperature: 57.40 &deg;F
 
@@ -6,11 +6,11 @@ Feels like: 57.40 &deg;F
 
 Humidity: 99%
 
-Wind Direction: NNW
+Wind Direction: NE
 
-Windspeed: 0.4 mph
+Windspeed: 0.0 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 0.0 mph
 
 ---
 
