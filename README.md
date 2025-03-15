@@ -1,4 +1,4 @@
-### Conditions as of March 15, 2025 at 8:54:08 AM CDT 
+### Conditions as of March 15, 2025 at 8:59:28 AM CDT 
 
 Temperature: 62.20 &deg;F
 
@@ -10,7 +10,7 @@ Wind Direction: SSW
 
 Windspeed: 3.1 mph
 
-Wind Gust: 4.5 mph
+Wind Gust: 3.8 mph
 
 ---
 
