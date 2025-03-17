@@ -1,16 +1,16 @@
-### Conditions as of March 16, 2025 at 8:09:53 PM CDT 
+### Conditions as of March 16, 2025 at 8:15:13 PM CDT 
 
-Temperature: 44.40 &deg;F
+Temperature: 44.00 &deg;F
 
-Feels like: 42.00 &deg;F
+Feels like: 44.00 &deg;F
 
-Humidity: 89%
+Humidity: 90%
 
-Wind Direction: NE
+Wind Direction: ENE
 
-Windspeed: 4.5 mph
+Windspeed: 2.7 mph
 
-Wind Gust: 5.1 mph
+Wind Gust: 2.9 mph
 
 ---
 
