@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-17 19:16:58",
+  "timestamp": "2025-03-17 19:22:18",
   "direction": "SSW",
-  "windDegrees": "197",
+  "windDegrees": "201",
   "speedMPH": "0.0",
   "gustSpeedMPH": "0.0",
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
-  "temperatureCelsius": "6.11",
-  "humidity": "84",
+  "temperatureCelsius": "6.00",
+  "humidity": "85",
   "feelsLike": {
-    "windChillTempF": "43.00",
-    "tempF": "43.00",
+    "windChillTempF": "42.80",
+    "tempF": "42.80",
     "windspeedMph": "0.0"
   },
-  "temperatureF": "43.00"
+  "temperatureF": "42.80"
 }
