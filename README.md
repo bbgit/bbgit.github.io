@@ -1,12 +1,12 @@
-### Conditions as of March 18, 2025 at 7:29:08 PM CDT 
+### Conditions as of March 18, 2025 at 7:34:28 PM CDT 
 
-Temperature: 54.80 &deg;F
+Temperature: 54.30 &deg;F
 
-Feels like: 54.80 &deg;F
+Feels like: 54.30 &deg;F
 
 Humidity: 71%
 
-Wind Direction: SSW
+Wind Direction: SE
 
 Windspeed: 0.0 mph
 
