@@ -1,16 +1,16 @@
-### Conditions as of March 19, 2025 at 6:15:33 PM CDT 
+### Conditions as of March 19, 2025 at 6:20:53 PM CDT 
 
-Temperature: 73.10 &deg;F
+Temperature: 73.40 &deg;F
 
-Feels like: 73.10 &deg;F
+Feels like: 73.40 &deg;F
 
-Humidity: 44%
+Humidity: 42%
 
-Wind Direction: WSW
+Wind Direction: SW
 
-Windspeed: 0.7 mph
+Windspeed: 7.2 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 9.6 mph
 
 ---
 
