@@ -1,12 +1,12 @@
-### Conditions as of March 19, 2025 at 8:44:21 AM CDT 
+### Conditions as of March 19, 2025 at 8:49:41 AM CDT 
 
-Temperature: 50.00 &deg;F
+Temperature: 50.60 &deg;F
 
-Feels like: 50.00 &deg;F
+Feels like: 50.60 &deg;F
 
-Humidity: 78%
+Humidity: 76%
 
-Wind Direction: SE
+Wind Direction: W
 
 Windspeed: 0.0 mph
 
