@@ -1,12 +1,12 @@
-### Conditions as of March 21, 2025 at 7:43:52 AM CDT 
+### Conditions as of March 21, 2025 at 7:49:12 AM CDT 
 
 Temperature: 27.70 &deg;F
 
 Feels like: 27.70 &deg;F
 
-Humidity: 97%
+Humidity: 98%
 
-Wind Direction: NW
+Wind Direction: WSW
 
 Windspeed: 0.0 mph
 
