@@ -1,14 +1,14 @@
-### Conditions as of March 22, 2025 at 5:00:25 PM CDT 
+### Conditions as of March 22, 2025 at 5:05:45 PM CDT 
 
-Temperature: 62.30 &deg;F
+Temperature: 61.90 &deg;F
 
-Feels like: 62.30 &deg;F
+Feels like: 61.90 &deg;F
 
 Humidity: 32%
 
-Wind Direction: SSW
+Wind Direction: E
 
-Windspeed: 1.6 mph
+Windspeed: 2.2 mph
 
 Wind Gust: 2.9 mph
 
