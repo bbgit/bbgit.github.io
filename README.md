@@ -1,8 +1,8 @@
-### Conditions as of March 23, 2025 at 4:44:57 AM CDT 
+### Conditions as of March 23, 2025 at 4:50:18 AM CDT 
 
-Temperature: 34.10 &deg;F
+Temperature: 34.00 &deg;F
 
-Feels like: 34.10 &deg;F
+Feels like: 34.00 &deg;F
 
 Humidity: 93%
 
