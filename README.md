@@ -1,16 +1,16 @@
-### Conditions as of March 24, 2025 at 3:46:51 PM CDT 
+### Conditions as of March 24, 2025 at 3:52:11 PM CDT 
 
-Temperature: 65.80 &deg;F
+Temperature: 66.30 &deg;F
 
-Feels like: 65.80 &deg;F
+Feels like: 66.30 &deg;F
 
 Humidity: 33%
 
-Wind Direction: E
+Wind Direction: NNE
 
-Windspeed: 2.2 mph
+Windspeed: 3.6 mph
 
-Wind Gust: 2.9 mph
+Wind Gust: 3.8 mph
 
 ---
 
