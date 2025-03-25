@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-25 07:59:15",
+  "timestamp": "2025-03-25 08:04:35",
   "direction": "ESE",
   "windDegrees": "108",
   "speedMPH": "0.0",
   "gustSpeedMPH": "0.0",
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
-  "temperatureCelsius": "7.67",
+  "temperatureCelsius": "7.89",
   "humidity": "85",
   "feelsLike": {
-    "windChillTempF": "45.80",
-    "tempF": "45.80",
+    "windChillTempF": "46.20",
+    "tempF": "46.20",
     "windspeedMph": "0.0"
   },
-  "temperatureF": "45.80"
+  "temperatureF": "46.20"
 }
