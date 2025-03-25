@@ -1,12 +1,12 @@
-### Conditions as of March 24, 2025 at 8:30:51 PM CDT 
+### Conditions as of March 24, 2025 at 8:36:11 PM CDT 
 
-Temperature: 49.10 &deg;F
+Temperature: 48.90 &deg;F
 
-Feels like: 49.10 &deg;F
+Feels like: 48.90 &deg;F
 
-Humidity: 79%
+Humidity: 81%
 
-Wind Direction: S
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
