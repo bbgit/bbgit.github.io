@@ -1,10 +1,10 @@
-### Conditions as of March 25, 2025 at 1:29:47 AM CDT 
+### Conditions as of March 25, 2025 at 1:35:08 AM CDT 
 
-Temperature: 46.30 &deg;F
+Temperature: 46.20 &deg;F
 
-Feels like: 46.30 &deg;F
+Feels like: 46.20 &deg;F
 
-Humidity: 86%
+Humidity: 85%
 
 Wind Direction: E
 
