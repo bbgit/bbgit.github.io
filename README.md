@@ -1,12 +1,12 @@
-### Conditions as of March 25, 2025 at 9:14:20 AM CDT 
+### Conditions as of March 25, 2025 at 9:19:40 AM CDT 
 
-Temperature: 52.50 &deg;F
+Temperature: 53.60 &deg;F
 
-Feels like: 52.50 &deg;F
+Feels like: 53.60 &deg;F
 
 Humidity: 69%
 
-Wind Direction: NE
+Wind Direction: ENE
 
 Windspeed: 0.0 mph
 
