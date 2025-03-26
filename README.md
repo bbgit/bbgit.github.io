@@ -1,8 +1,8 @@
-### Conditions as of March 26, 2025 at 4:12:13 AM CDT 
+### Conditions as of March 26, 2025 at 4:17:32 AM CDT 
 
-Temperature: 40.20 &deg;F
+Temperature: 39.90 &deg;F
 
-Feels like: 40.20 &deg;F
+Feels like: 39.90 &deg;F
 
 Humidity: 96%
 
