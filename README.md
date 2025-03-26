@@ -1,16 +1,16 @@
-### Conditions as of March 26, 2025 at 5:11:41 PM CDT 
+### Conditions as of March 26, 2025 at 5:17:01 PM CDT 
 
-Temperature: 59.90 &deg;F
+Temperature: 60.20 &deg;F
 
-Feels like: 59.90 &deg;F
+Feels like: 60.20 &deg;F
 
-Humidity: 38%
+Humidity: 36%
 
-Wind Direction: E
+Wind Direction: NE
 
-Windspeed: 2.9 mph
+Windspeed: 5.1 mph
 
-Wind Gust: 2.9 mph
+Wind Gust: 5.8 mph
 
 ---
 
