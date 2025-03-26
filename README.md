@@ -1,10 +1,10 @@
-### Conditions as of March 26, 2025 at 6:04:13 AM CDT 
+### Conditions as of March 26, 2025 at 6:09:33 AM CDT 
 
-Temperature: 36.80 &deg;F
+Temperature: 36.60 &deg;F
 
-Feels like: 36.80 &deg;F
+Feels like: 36.60 &deg;F
 
-Humidity: 98%
+Humidity: 97%
 
 Wind Direction: ENE
 
