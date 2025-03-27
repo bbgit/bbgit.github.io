@@ -1,8 +1,8 @@
-### Conditions as of March 27, 2025 at 12:55:58 AM CDT 
+### Conditions as of March 27, 2025 at 1:01:17 AM CDT 
 
-Temperature: 38.00 &deg;F
+Temperature: 37.80 &deg;F
 
-Feels like: 38.00 &deg;F
+Feels like: 37.80 &deg;F
 
 Humidity: 92%
 
