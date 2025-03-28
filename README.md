@@ -1,12 +1,12 @@
-### Conditions as of March 27, 2025 at 8:56:31 PM CDT 
+### Conditions as of March 27, 2025 at 9:01:51 PM CDT 
 
-Temperature: 54.40 &deg;F
+Temperature: 54.20 &deg;F
 
-Feels like: 54.40 &deg;F
+Feels like: 54.20 &deg;F
 
 Humidity: 80%
 
-Wind Direction: WSW
+Wind Direction: SW
 
 Windspeed: 0.0 mph
 
