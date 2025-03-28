@@ -1,16 +1,16 @@
-### Conditions as of March 28, 2025 at 5:03:27 PM CDT 
+### Conditions as of March 28, 2025 at 5:08:47 PM CDT 
 
-Temperature: 78.10 &deg;F
+Temperature: 78.40 &deg;F
 
-Feels like: 78.10 &deg;F
+Feels like: 78.40 &deg;F
 
 Humidity: 38%
 
-Wind Direction: SE
+Wind Direction: WNW
 
-Windspeed: 0.4 mph
+Windspeed: 0.0 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 0.0 mph
 
 ---
 
