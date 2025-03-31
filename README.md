@@ -1,12 +1,12 @@
-### Conditions as of March 30, 2025 at 8:50:08 PM CDT 
+### Conditions as of March 30, 2025 at 8:55:29 PM CDT 
 
-Temperature: 63.90 &deg;F
+Temperature: 63.70 &deg;F
 
-Feels like: 63.90 &deg;F
+Feels like: 63.70 &deg;F
 
 Humidity: 91%
 
-Wind Direction: SW
+Wind Direction: W
 
 Windspeed: 0.0 mph
 
