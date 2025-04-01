@@ -1,16 +1,16 @@
-### Conditions as of March 31, 2025 at 4:09:05 PM CDT 
+### Conditions as of April 1, 2025 at 7:01:38 AM CDT 
 
-Temperature: 50.30 &deg;F
+Temperature: 44.40 &deg;F
 
-Feels like: 50.30 &deg;F
+Feels like: 44.40 &deg;F
 
-Humidity: 92%
+Humidity: 81%
 
-Wind Direction: NNE
+Wind Direction: NNW
 
-Windspeed: 4.9 mph
+Windspeed: 1.8 mph
 
-Wind Gust: 5.8 mph
+Wind Gust: 2.2 mph
 
 ---
 
