@@ -1,16 +1,16 @@
-### Conditions as of April 1, 2025 at 5:20:34 PM CDT 
+### Conditions as of April 1, 2025 at 5:25:54 PM CDT 
 
-Temperature: 64.20 &deg;F
+Temperature: 63.60 &deg;F
 
-Feels like: 64.20 &deg;F
+Feels like: 63.60 &deg;F
 
-Humidity: 51%
+Humidity: 53%
 
-Wind Direction: W
+Wind Direction: S
 
-Windspeed: 0.0 mph
+Windspeed: 1.1 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 1.6 mph
 
 ---
 
