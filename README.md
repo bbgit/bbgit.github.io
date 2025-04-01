@@ -1,16 +1,16 @@
-### Conditions as of April 1, 2025 at 7:28:17 AM CDT 
+### Conditions as of April 1, 2025 at 7:33:38 AM CDT 
 
 Temperature: 44.60 &deg;F
 
-Feels like: 44.60 &deg;F
+Feels like: 43.46 &deg;F
 
-Humidity: 81%
+Humidity: 82%
 
-Wind Direction: W
+Wind Direction: NW
 
-Windspeed: 0.0 mph
+Windspeed: 3.1 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 3.8 mph
 
 ---
 
