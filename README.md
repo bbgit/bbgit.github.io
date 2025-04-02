@@ -1,8 +1,8 @@
-### Conditions as of April 1, 2025 at 8:59:14 PM CDT 
+### Conditions as of April 1, 2025 at 9:04:34 PM CDT 
 
-Temperature: 49.40 &deg;F
+Temperature: 49.30 &deg;F
 
-Feels like: 49.40 &deg;F
+Feels like: 49.30 &deg;F
 
 Humidity: 93%
 
