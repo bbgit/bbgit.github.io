@@ -1,16 +1,16 @@
-### Conditions as of April 3, 2025 at 11:16:19 AM CDT 
+### Conditions as of April 3, 2025 at 11:21:39 AM CDT 
 
-Temperature: 66.40 &deg;F
+Temperature: 66.30 &deg;F
 
-Feels like: 66.40 &deg;F
+Feels like: 66.30 &deg;F
 
 Humidity: 98%
 
-Wind Direction: NNW
+Wind Direction: NNE
 
-Windspeed: 1.8 mph
+Windspeed: 2.9 mph
 
-Wind Gust: 2.2 mph
+Wind Gust: 3.8 mph
 
 ---
 
