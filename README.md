@@ -1,12 +1,12 @@
-### Conditions as of April 3, 2025 at 10:24:19 PM CDT 
+### Conditions as of April 3, 2025 at 10:29:39 PM CDT 
 
-Temperature: 61.00 &deg;F
+Temperature: 60.90 &deg;F
 
-Feels like: 61.00 &deg;F
+Feels like: 60.90 &deg;F
 
-Humidity: 98%
+Humidity: 99%
 
-Wind Direction: ENE
+Wind Direction: NE
 
 Windspeed: 0.0 mph
 
