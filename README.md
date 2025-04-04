@@ -1,16 +1,16 @@
-### Conditions as of April 4, 2025 at 1:36:35 PM CDT 
+### Conditions as of April 4, 2025 at 1:41:56 PM CDT 
 
-Temperature: 87.90 &deg;F
+Temperature: 88.90 &deg;F
 
-Feels like: 87.90 &deg;F
+Feels like: 88.90 &deg;F
 
-Humidity: 53%
+Humidity: 50%
 
-Wind Direction: S
+Wind Direction: SE
 
-Windspeed: 3.8 mph
+Windspeed: 3.1 mph
 
-Wind Gust: 4.5 mph
+Wind Gust: 5.1 mph
 
 ---
 
