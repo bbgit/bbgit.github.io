@@ -1,12 +1,12 @@
-### Conditions as of April 5, 2025 at 8:04:04 AM CDT 
+### Conditions as of April 5, 2025 at 8:09:24 AM CDT 
 
-Temperature: 67.60 &deg;F
+Temperature: 67.90 &deg;F
 
-Feels like: 67.60 &deg;F
+Feels like: 67.90 &deg;F
 
 Humidity: 91%
 
-Wind Direction: N
+Wind Direction: NE
 
 Windspeed: 0.0 mph
 
