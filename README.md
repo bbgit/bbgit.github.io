@@ -1,8 +1,8 @@
-### Conditions as of April 6, 2025 at 3:32:52 AM CDT 
+### Conditions as of April 6, 2025 at 3:38:12 AM CDT 
 
-Temperature: 62.10 &deg;F
+Temperature: 62.00 &deg;F
 
-Feels like: 62.10 &deg;F
+Feels like: 62.00 &deg;F
 
 Humidity: 99%
 
