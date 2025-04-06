@@ -1,4 +1,4 @@
-### Conditions as of April 6, 2025 at 2:23:32 AM CDT 
+### Conditions as of April 6, 2025 at 2:28:52 AM CDT 
 
 Temperature: 62.60 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 62.60 &deg;F
 
 Humidity: 99%
 
-Wind Direction: WSW
+Wind Direction: ESE
 
 Windspeed: 0.0 mph
 
