@@ -1,16 +1,16 @@
-### Conditions as of April 7, 2025 at 5:20:06 PM CDT 
+### Conditions as of April 7, 2025 at 5:25:26 PM CDT 
 
-Temperature: 52.80 &deg;F
+Temperature: 52.40 &deg;F
 
-Feels like: 52.80 &deg;F
+Feels like: 52.40 &deg;F
 
-Humidity: 72%
+Humidity: 73%
 
-Wind Direction: W
+Wind Direction: SW
 
-Windspeed: 1.1 mph
+Windspeed: 1.6 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 2.2 mph
 
 ---
 
