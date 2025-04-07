@@ -1,14 +1,14 @@
-### Conditions as of April 7, 2025 at 7:33:25 AM CDT 
+### Conditions as of April 7, 2025 at 7:38:45 AM CDT 
 
-Temperature: 42.20 &deg;F
+Temperature: 42.10 &deg;F
 
-Feels like: 42.20 &deg;F
+Feels like: 42.10 &deg;F
 
 Humidity: 98%
 
-Wind Direction: ENE
+Wind Direction: NNE
 
-Windspeed: 2.0 mph
+Windspeed: 1.8 mph
 
 Wind Gust: 2.2 mph
 
