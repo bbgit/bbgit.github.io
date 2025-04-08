@@ -1,10 +1,10 @@
-### Conditions as of April 8, 2025 at 3:17:59 PM CDT 
+### Conditions as of April 8, 2025 at 3:23:19 PM CDT 
 
-Temperature: 53.80 &deg;F
+Temperature: 52.80 &deg;F
 
-Feels like: 53.80 &deg;F
+Feels like: 52.80 &deg;F
 
-Humidity: 34%
+Humidity: 33%
 
 Wind Direction: SE
 
