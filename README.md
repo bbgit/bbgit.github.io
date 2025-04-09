@@ -1,4 +1,4 @@
-### Conditions as of April 9, 2025 at 6:46:48 AM CDT 
+### Conditions as of April 9, 2025 at 6:52:09 AM CDT 
 
 Temperature: 28.90 &deg;F
 
