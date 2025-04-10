@@ -1,10 +1,10 @@
-### Conditions as of April 10, 2025 at 12:44:58 AM CDT 
+### Conditions as of April 10, 2025 at 12:50:17 AM CDT 
 
 Temperature: 46.30 &deg;F
 
 Feels like: 46.30 &deg;F
 
-Humidity: 92%
+Humidity: 93%
 
 Wind Direction: SE
 
