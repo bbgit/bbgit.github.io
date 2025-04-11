@@ -1,16 +1,16 @@
-### Conditions as of April 11, 2025 at 10:38:03 AM CDT 
+### Conditions as of April 11, 2025 at 10:43:22 AM CDT 
 
-Temperature: 51.80 &deg;F
+Temperature: 52.00 &deg;F
 
-Feels like: 51.80 &deg;F
+Feels like: 52.00 &deg;F
 
 Humidity: 91%
 
-Wind Direction: ENE
+Wind Direction: NW
 
-Windspeed: 1.6 mph
+Windspeed: 0.7 mph
 
-Wind Gust: 2.2 mph
+Wind Gust: 1.6 mph
 
 ---
 
