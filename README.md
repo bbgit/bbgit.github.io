@@ -1,16 +1,16 @@
-### Conditions as of April 12, 2025 at 12:25:16 PM CDT 
+### Conditions as of April 12, 2025 at 12:30:36 PM CDT 
 
-Temperature: 56.60 &deg;F
+Temperature: 56.00 &deg;F
 
-Feels like: 56.60 &deg;F
+Feels like: 56.00 &deg;F
 
 Humidity: 43%
 
 Wind Direction: E
 
-Windspeed: 3.6 mph
+Windspeed: 2.0 mph
 
-Wind Gust: 5.1 mph
+Wind Gust: 2.9 mph
 
 ---
 
