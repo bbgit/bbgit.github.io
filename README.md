@@ -1,12 +1,12 @@
-### Conditions as of April 13, 2025 at 5:03:09 AM CDT 
+### Conditions as of April 13, 2025 at 5:08:29 AM CDT 
 
-Temperature: 33.40 &deg;F
+Temperature: 33.20 &deg;F
 
-Feels like: 33.40 &deg;F
+Feels like: 33.20 &deg;F
 
 Humidity: 97%
 
-Wind Direction: N
+Wind Direction: NW
 
 Windspeed: 0.0 mph
 
