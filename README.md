@@ -1,10 +1,10 @@
-### Conditions as of April 12, 2025 at 9:56:28 PM CDT 
+### Conditions as of April 12, 2025 at 10:01:48 PM CDT 
 
-Temperature: 40.70 &deg;F
+Temperature: 40.40 &deg;F
 
-Feels like: 40.70 &deg;F
+Feels like: 40.40 &deg;F
 
-Humidity: 85%
+Humidity: 86%
 
 Wind Direction: NNW
 
