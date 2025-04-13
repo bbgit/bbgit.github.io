@@ -1,8 +1,8 @@
-### Conditions as of April 12, 2025 at 9:24:28 PM CDT 
+### Conditions as of April 12, 2025 at 9:29:48 PM CDT 
 
-Temperature: 41.90 &deg;F
+Temperature: 41.70 &deg;F
 
-Feels like: 41.90 &deg;F
+Feels like: 41.70 &deg;F
 
 Humidity: 83%
 
