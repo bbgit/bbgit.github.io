@@ -1,16 +1,16 @@
-### Conditions as of April 13, 2025 at 4:16:13 PM CDT 
+### Conditions as of April 13, 2025 at 4:21:34 PM CDT 
 
-Temperature: 75.30 &deg;F
+Temperature: 75.40 &deg;F
 
-Feels like: 75.30 &deg;F
+Feels like: 75.40 &deg;F
 
-Humidity: 21%
+Humidity: 22%
 
-Wind Direction: E
+Wind Direction: SSW
 
-Windspeed: 2.9 mph
+Windspeed: 3.6 mph
 
-Wind Gust: 3.8 mph
+Wind Gust: 4.5 mph
 
 ---
 
