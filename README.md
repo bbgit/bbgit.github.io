@@ -1,4 +1,4 @@
-### Conditions as of April 13, 2025 at 12:41:48 AM CDT 
+### Conditions as of April 13, 2025 at 12:47:09 AM CDT 
 
 Temperature: 36.70 &deg;F
 
