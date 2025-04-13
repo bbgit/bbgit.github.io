@@ -1,12 +1,12 @@
-### Conditions as of April 12, 2025 at 7:21:48 PM CDT 
+### Conditions as of April 12, 2025 at 7:27:08 PM CDT 
 
-Temperature: 49.20 &deg;F
+Temperature: 48.80 &deg;F
 
-Feels like: 49.20 &deg;F
+Feels like: 48.80 &deg;F
 
-Humidity: 70%
+Humidity: 72%
 
-Wind Direction: SSE
+Wind Direction: S
 
 Windspeed: 0.0 mph
 
