@@ -1,14 +1,14 @@
-### Conditions as of April 14, 2025 at 6:51:26 AM CDT 
+### Conditions as of April 14, 2025 at 6:56:46 AM CDT 
 
-Temperature: 58.90 &deg;F
+Temperature: 59.00 &deg;F
 
-Feels like: 58.90 &deg;F
+Feels like: 59.00 &deg;F
 
 Humidity: 78%
 
-Wind Direction: SW
+Wind Direction: S
 
-Windspeed: 1.1 mph
+Windspeed: 0.9 mph
 
 Wind Gust: 1.6 mph
 
