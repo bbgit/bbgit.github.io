@@ -1,16 +1,16 @@
-### Conditions as of April 15, 2025 at 8:01:34 AM CDT 
+### Conditions as of April 15, 2025 at 8:06:54 AM CDT 
 
 Temperature: 55.60 &deg;F
 
 Feels like: 55.60 &deg;F
 
-Humidity: 65%
+Humidity: 62%
 
-Wind Direction: E
+Wind Direction: SE
 
-Windspeed: 0.7 mph
+Windspeed: 2.7 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 3.8 mph
 
 ---
 
