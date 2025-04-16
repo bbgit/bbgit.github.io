@@ -1,8 +1,8 @@
-### Conditions as of April 15, 2025 at 10:09:51 PM CDT 
+### Conditions as of April 15, 2025 at 10:15:11 PM CDT 
 
-Temperature: 44.80 &deg;F
+Temperature: 44.50 &deg;F
 
-Feels like: 44.80 &deg;F
+Feels like: 44.50 &deg;F
 
 Humidity: 82%
 
