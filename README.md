@@ -1,12 +1,12 @@
-### Conditions as of April 15, 2025 at 8:12:30 PM CDT 
+### Conditions as of April 15, 2025 at 8:17:51 PM CDT 
 
-Temperature: 50.50 &deg;F
+Temperature: 50.10 &deg;F
 
-Feels like: 50.50 &deg;F
+Feels like: 50.10 &deg;F
 
 Humidity: 69%
 
-Wind Direction: WNW
+Wind Direction: W
 
 Windspeed: 0.0 mph
 
