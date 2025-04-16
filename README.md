@@ -1,12 +1,12 @@
-### Conditions as of April 16, 2025 at 3:13:51 AM CDT 
+### Conditions as of April 16, 2025 at 3:19:12 AM CDT 
 
-Temperature: 38.20 &deg;F
+Temperature: 38.00 &deg;F
 
-Feels like: 38.20 &deg;F
+Feels like: 38.00 &deg;F
 
 Humidity: 96%
 
-Wind Direction: NNE
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
