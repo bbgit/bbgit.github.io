@@ -1,8 +1,8 @@
-### Conditions as of April 27, 2025 at 11:18:31 PM CDT 
+### Conditions as of April 27, 2025 at 11:23:51 PM CDT 
 
-Temperature: 50.80 &deg;F
+Temperature: 50.60 &deg;F
 
-Feels like: 50.80 &deg;F
+Feels like: 50.60 &deg;F
 
 Humidity: 94%
 
