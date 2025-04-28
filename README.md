@@ -1,16 +1,16 @@
-### Conditions as of April 28, 2025 at 4:27:19 PM CDT 
+### Conditions as of April 28, 2025 at 4:32:39 PM CDT 
 
-Temperature: 80.50 &deg;F
+Temperature: 81.00 &deg;F
 
-Feels like: 80.50 &deg;F
+Feels like: 81.00 &deg;F
 
-Humidity: 57%
+Humidity: 58%
 
-Wind Direction: SSW
+Wind Direction: SW
 
 Windspeed: 0.0 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 0.0 mph
 
 ---
 
