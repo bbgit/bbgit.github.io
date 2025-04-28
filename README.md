@@ -1,12 +1,12 @@
-### Conditions as of April 28, 2025 at 12:22:31 AM CDT 
+### Conditions as of April 28, 2025 at 12:27:51 AM CDT 
 
-Temperature: 49.30 &deg;F
+Temperature: 49.20 &deg;F
 
-Feels like: 49.30 &deg;F
+Feels like: 49.20 &deg;F
 
 Humidity: 96%
 
-Wind Direction: NE
+Wind Direction: WNW
 
 Windspeed: 0.0 mph
 
