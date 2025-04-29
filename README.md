@@ -1,10 +1,10 @@
-### Conditions as of April 29, 2025 at 8:39:03 AM CDT 
+### Conditions as of April 29, 2025 at 8:44:24 AM CDT 
 
-Temperature: 65.70 &deg;F
+Temperature: 65.90 &deg;F
 
-Feels like: 65.70 &deg;F
+Feels like: 65.90 &deg;F
 
-Humidity: 98%
+Humidity: 97%
 
 Wind Direction: SW
 
