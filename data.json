@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-28 22:30:06",
+  "timestamp": "2025-04-28 22:35:26",
   "direction": "SSW",
   "windDegrees": "203",
   "speedMPH": "0.0",
@@ -7,7 +7,7 @@
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
   "temperatureCelsius": "17.56",
-  "humidity": "96",
+  "humidity": "97",
   "feelsLike": {
     "windChillTempF": "63.60",
     "tempF": "63.60",
