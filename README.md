@@ -1,16 +1,16 @@
-### Conditions as of April 30, 2025 at 10:11:20 AM CDT 
+### Conditions as of April 30, 2025 at 10:16:40 AM CDT 
 
-Temperature: 77.90 &deg;F
+Temperature: 78.50 &deg;F
 
-Feels like: 77.90 &deg;F
+Feels like: 78.50 &deg;F
 
-Humidity: 76%
+Humidity: 75%
 
-Wind Direction: SSE
+Wind Direction: ENE
 
-Windspeed: 2.7 mph
+Windspeed: 0.9 mph
 
-Wind Gust: 2.9 mph
+Wind Gust: 1.6 mph
 
 ---
 
