@@ -1,10 +1,10 @@
-### Conditions as of May 2, 2025 at 6:36:25 PM CDT 
+### Conditions as of May 2, 2025 at 6:41:45 PM CDT 
 
 Temperature: 61.60 &deg;F
 
 Feels like: 61.60 &deg;F
 
-Humidity: 98%
+Humidity: 99%
 
 Wind Direction: WNW
 
