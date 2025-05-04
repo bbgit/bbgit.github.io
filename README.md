@@ -1,8 +1,8 @@
-### Conditions as of May 4, 2025 at 12:08:26 AM CDT 
+### Conditions as of May 4, 2025 at 12:13:46 AM CDT 
 
-Temperature: 54.30 &deg;F
+Temperature: 54.10 &deg;F
 
-Feels like: 54.30 &deg;F
+Feels like: 54.10 &deg;F
 
 Humidity: 99%
 
