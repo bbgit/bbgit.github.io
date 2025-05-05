@@ -1,12 +1,12 @@
-### Conditions as of May 4, 2025 at 9:08:11 PM CDT 
+### Conditions as of May 4, 2025 at 9:13:31 PM CDT 
 
 Temperature: 49.70 &deg;F
 
 Feels like: 49.70 &deg;F
 
-Humidity: 97%
+Humidity: 96%
 
-Wind Direction: ENE
+Wind Direction: SE
 
 Windspeed: 0.0 mph
 
