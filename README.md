@@ -1,8 +1,8 @@
-### Conditions as of May 4, 2025 at 10:28:11 PM CDT 
+### Conditions as of May 4, 2025 at 10:33:31 PM CDT 
 
-Temperature: 48.90 &deg;F
+Temperature: 48.80 &deg;F
 
-Feels like: 48.90 &deg;F
+Feels like: 48.80 &deg;F
 
 Humidity: 97%
 
