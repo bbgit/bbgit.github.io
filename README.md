@@ -1,12 +1,12 @@
-### Conditions as of May 7, 2025 at 12:55:09 PM CDT 
+### Conditions as of May 7, 2025 at 1:00:30 PM CDT 
 
-Temperature: 65.20 &deg;F
+Temperature: 65.00 &deg;F
 
-Feels like: 65.20 &deg;F
+Feels like: 65.00 &deg;F
 
 Humidity: 90%
 
-Wind Direction: ENE
+Wind Direction: NNW
 
 Windspeed: 0.0 mph
 
