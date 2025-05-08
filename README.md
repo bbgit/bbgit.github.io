@@ -1,16 +1,16 @@
-### Conditions as of May 8, 2025 at 9:28:14 AM CDT 
+### Conditions as of May 8, 2025 at 9:33:34 AM CDT 
 
-Temperature: 69.50 &deg;F
+Temperature: 70.00 &deg;F
 
-Feels like: 69.50 &deg;F
+Feels like: 70.00 &deg;F
 
-Humidity: 88%
+Humidity: 89%
 
 Wind Direction: E
 
 Windspeed: 0.0 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 0.0 mph
 
 ---
 
