@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-07 23:13:56",
+  "timestamp": "2025-05-07 23:19:16",
   "direction": "ESE",
   "windDegrees": "105",
   "speedMPH": "0.0",
@@ -7,7 +7,7 @@
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
   "temperatureCelsius": "15.50",
-  "humidity": "98",
+  "humidity": "99",
   "feelsLike": {
     "windChillTempF": "59.90",
     "tempF": "59.90",
