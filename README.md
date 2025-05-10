@@ -1,16 +1,16 @@
-### Conditions as of May 10, 2025 at 12:06:23 PM CDT 
+### Conditions as of May 10, 2025 at 12:11:43 PM CDT 
 
-Temperature: 73.70 &deg;F
+Temperature: 74.90 &deg;F
 
-Feels like: 73.70 &deg;F
+Feels like: 74.90 &deg;F
 
-Humidity: 37%
+Humidity: 42%
 
-Wind Direction: W
+Wind Direction: WNW
 
-Windspeed: 1.6 mph
+Windspeed: 2.0 mph
 
-Wind Gust: 2.2 mph
+Wind Gust: 2.9 mph
 
 ---
 
