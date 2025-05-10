@@ -1,16 +1,16 @@
-### Conditions as of May 10, 2025 at 9:05:03 AM CDT 
+### Conditions as of May 10, 2025 at 9:10:23 AM CDT 
 
-Temperature: 58.70 &deg;F
+Temperature: 59.30 &deg;F
 
-Feels like: 58.70 &deg;F
+Feels like: 59.30 &deg;F
 
-Humidity: 79%
+Humidity: 80%
 
 Wind Direction: E
 
-Windspeed: 0.2 mph
+Windspeed: 1.1 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 1.6 mph
 
 ---
 
