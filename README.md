@@ -1,16 +1,16 @@
-### Conditions as of May 11, 2025 at 3:56:00 PM CDT 
+### Conditions as of May 11, 2025 at 4:01:20 PM CDT 
 
-Temperature: 80.60 &deg;F
+Temperature: 80.20 &deg;F
 
-Feels like: 80.60 &deg;F
+Feels like: 80.20 &deg;F
 
-Humidity: 60%
+Humidity: 62%
 
-Wind Direction: NNW
+Wind Direction: WNW
 
-Windspeed: 0.4 mph
+Windspeed: 1.1 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 1.6 mph
 
 ---
 
