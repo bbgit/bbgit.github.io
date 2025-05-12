@@ -1,4 +1,4 @@
-### Conditions as of May 11, 2025 at 11:56:48 PM CDT 
+### Conditions as of May 12, 2025 at 12:02:08 AM CDT 
 
 Temperature: 62.50 &deg;F
 
