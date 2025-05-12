@@ -1,4 +1,4 @@
-### Conditions as of May 11, 2025 at 10:52:48 PM CDT 
+### Conditions as of May 11, 2025 at 10:58:08 PM CDT 
 
 Temperature: 63.10 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 63.10 &deg;F
 
 Humidity: 99%
 
-Wind Direction: NNE
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
