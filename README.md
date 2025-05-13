@@ -1,8 +1,8 @@
-### Conditions as of May 13, 2025 at 2:31:29 AM CDT 
+### Conditions as of May 13, 2025 at 2:36:49 AM CDT 
 
-Temperature: 59.60 &deg;F
+Temperature: 59.40 &deg;F
 
-Feels like: 59.60 &deg;F
+Feels like: 59.40 &deg;F
 
 Humidity: 99%
 
