@@ -1,16 +1,16 @@
-### Conditions as of May 14, 2025 at 2:59:29 PM CDT 
+### Conditions as of May 14, 2025 at 3:04:49 PM CDT 
 
-Temperature: 84.60 &deg;F
+Temperature: 84.90 &deg;F
 
-Feels like: 84.60 &deg;F
+Feels like: 84.90 &deg;F
 
-Humidity: 60%
+Humidity: 58%
 
-Wind Direction: S
+Wind Direction: WSW
 
-Windspeed: 1.1 mph
+Windspeed: 0.2 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 0.7 mph
 
 ---
 
