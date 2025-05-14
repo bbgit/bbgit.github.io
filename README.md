@@ -1,12 +1,12 @@
-### Conditions as of May 14, 2025 at 1:55:30 PM CDT 
+### Conditions as of May 14, 2025 at 2:00:49 PM CDT 
 
-Temperature: 84.40 &deg;F
+Temperature: 85.20 &deg;F
 
-Feels like: 84.40 &deg;F
+Feels like: 85.20 &deg;F
 
-Humidity: 64%
+Humidity: 61%
 
-Wind Direction: ENE
+Wind Direction: NW
 
 Windspeed: 0.0 mph
 
