@@ -1,8 +1,8 @@
-### Conditions as of May 14, 2025 at 8:30:09 PM CDT 
+### Conditions as of May 14, 2025 at 8:35:29 PM CDT 
 
-Temperature: 67.80 &deg;F
+Temperature: 67.50 &deg;F
 
-Feels like: 67.80 &deg;F
+Feels like: 67.50 &deg;F
 
 Humidity: 95%
 
