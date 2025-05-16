@@ -1,12 +1,12 @@
-### Conditions as of May 16, 2025 at 2:00:50 PM CDT 
+### Conditions as of May 16, 2025 at 2:06:10 PM CDT 
 
-Temperature: 80.40 &deg;F
+Temperature: 80.50 &deg;F
 
-Feels like: 80.40 &deg;F
+Feels like: 80.50 &deg;F
 
 Humidity: 81%
 
-Wind Direction: NE
+Wind Direction: W
 
 Windspeed: 0.0 mph
 
