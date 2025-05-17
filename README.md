@@ -1,16 +1,16 @@
-### Conditions as of May 17, 2025 at 11:58:59 AM CDT 
+### Conditions as of May 17, 2025 at 12:04:19 PM CDT 
 
-Temperature: 83.00 &deg;F
+Temperature: 82.50 &deg;F
 
-Feels like: 83.00 &deg;F
+Feels like: 82.50 &deg;F
 
-Humidity: 51%
+Humidity: 56%
 
-Wind Direction: NE
+Wind Direction: E
 
-Windspeed: 2.7 mph
+Windspeed: 2.9 mph
 
-Wind Gust: 3.8 mph
+Wind Gust: 4.5 mph
 
 ---
 
