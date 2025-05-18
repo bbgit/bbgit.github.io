@@ -1,12 +1,12 @@
-### Conditions as of May 17, 2025 at 8:46:59 PM CDT 
+### Conditions as of May 17, 2025 at 8:52:19 PM CDT 
 
-Temperature: 64.50 &deg;F
+Temperature: 64.10 &deg;F
 
-Feels like: 64.50 &deg;F
+Feels like: 64.10 &deg;F
 
 Humidity: 81%
 
-Wind Direction: SW
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
