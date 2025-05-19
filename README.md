@@ -1,8 +1,8 @@
-### Conditions as of May 18, 2025 at 11:46:43 PM CDT 
+### Conditions as of May 18, 2025 at 11:52:04 PM CDT 
 
-Temperature: 60.90 &deg;F
+Temperature: 60.80 &deg;F
 
-Feels like: 60.90 &deg;F
+Feels like: 60.80 &deg;F
 
 Humidity: 98%
 
