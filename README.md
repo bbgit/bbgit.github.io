@@ -1,4 +1,4 @@
-### Conditions as of May 19, 2025 at 6:00:36 AM CDT 
+### Conditions as of May 19, 2025 at 6:05:56 AM CDT 
 
 Temperature: 58.70 &deg;F
 
