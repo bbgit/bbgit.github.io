@@ -1,8 +1,8 @@
-### Conditions as of May 22, 2025 at 1:10:45 AM CDT 
+### Conditions as of May 22, 2025 at 1:16:05 AM CDT 
 
-Temperature: 54.30 &deg;F
+Temperature: 54.10 &deg;F
 
-Feels like: 54.30 &deg;F
+Feels like: 54.10 &deg;F
 
 Humidity: 97%
 
