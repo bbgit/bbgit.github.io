@@ -1,8 +1,8 @@
-### Conditions as of May 23, 2025 at 6:03:50 PM CDT 
+### Conditions as of May 23, 2025 at 6:09:10 PM CDT 
 
-Temperature: 63.90 &deg;F
+Temperature: 63.70 &deg;F
 
-Feels like: 63.90 &deg;F
+Feels like: 63.70 &deg;F
 
 Humidity: 60%
 
