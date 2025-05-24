@@ -1,10 +1,10 @@
-### Conditions as of May 24, 2025 at 5:37:43 PM CDT 
+### Conditions as of May 24, 2025 at 5:43:03 PM CDT 
 
-Temperature: 67.80 &deg;F
+Temperature: 67.50 &deg;F
 
-Feels like: 67.80 &deg;F
+Feels like: 67.50 &deg;F
 
-Humidity: 73%
+Humidity: 75%
 
 Wind Direction: N
 
