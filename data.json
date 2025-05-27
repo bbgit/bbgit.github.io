@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-05-26 20:58:07",
+  "timestamp": "2025-05-26 21:03:27",
   "direction": "NNE",
-  "windDegrees": "15",
+  "windDegrees": "30",
   "speedMPH": "0.0",
   "gustSpeedMPH": "0.0",
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
   "temperatureCelsius": "17.33",
-  "humidity": "93",
+  "humidity": "94",
   "feelsLike": {
     "windChillTempF": "63.20",
     "tempF": "63.20",
