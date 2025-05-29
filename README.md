@@ -1,12 +1,12 @@
-### Conditions as of May 29, 2025 at 3:39:53 PM CDT 
+### Conditions as of May 29, 2025 at 3:45:14 PM CDT 
 
-Temperature: 73.70 &deg;F
+Temperature: 73.50 &deg;F
 
-Feels like: 73.70 &deg;F
+Feels like: 73.50 &deg;F
 
 Humidity: 90%
 
-Wind Direction: SE
+Wind Direction: ESE
 
 Windspeed: 0.0 mph
 
