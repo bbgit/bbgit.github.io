@@ -1,16 +1,16 @@
-### Conditions as of May 30, 2025 at 7:03:53 AM CDT 
+### Conditions as of May 30, 2025 at 7:09:14 AM CDT 
 
-Temperature: 66.40 &deg;F
+Temperature: 66.50 &deg;F
 
-Feels like: 66.40 &deg;F
+Feels like: 66.50 &deg;F
 
 Humidity: 99%
 
-Wind Direction: SE
+Wind Direction: NNE
 
-Windspeed: 1.1 mph
+Windspeed: 0.2 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 0.7 mph
 
 ---
 
