@@ -1,12 +1,12 @@
-### Conditions as of May 31, 2025 at 3:36:10 AM CDT 
+### Conditions as of May 31, 2025 at 3:41:30 AM CDT 
 
-Temperature: 55.50 &deg;F
+Temperature: 55.40 &deg;F
 
-Feels like: 55.50 &deg;F
+Feels like: 55.40 &deg;F
 
 Humidity: 99%
 
-Wind Direction: SW
+Wind Direction: NNW
 
 Windspeed: 0.0 mph
 
