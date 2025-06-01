@@ -1,8 +1,8 @@
-### Conditions as of June 1, 2025 at 1:35:39 PM CDT 
+### Conditions as of June 1, 2025 at 1:40:59 PM CDT 
 
-Temperature: 83.60 &deg;F
+Temperature: 84.40 &deg;F
 
-Feels like: 83.60 &deg;F
+Feels like: 84.40 &deg;F
 
 Humidity: 64%
 
