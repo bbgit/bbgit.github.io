@@ -1,4 +1,4 @@
-### Conditions as of June 2, 2025 at 5:41:00 AM CDT 
+### Conditions as of June 2, 2025 at 5:46:19 AM CDT 
 
 Temperature: 55.60 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 55.60 &deg;F
 
 Humidity: 99%
 
-Wind Direction: SSW
+Wind Direction: S
 
 Windspeed: 0.0 mph
 
