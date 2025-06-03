@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-02 23:45:07",
+  "timestamp": "2025-06-02 23:50:27",
   "direction": "WSW",
   "windDegrees": "242",
   "speedMPH": "0.0",
@@ -7,7 +7,7 @@
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
   "temperatureCelsius": "15.44",
-  "humidity": "98",
+  "humidity": "99",
   "feelsLike": {
     "windChillTempF": "59.80",
     "tempF": "59.80",
