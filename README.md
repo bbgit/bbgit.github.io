@@ -1,10 +1,10 @@
-### Conditions as of June 3, 2025 at 3:45:48 PM CDT 
+### Conditions as of June 3, 2025 at 3:51:08 PM CDT 
 
-Temperature: 88.20 &deg;F
+Temperature: 86.80 &deg;F
 
-Feels like: 88.20 &deg;F
+Feels like: 86.80 &deg;F
 
-Humidity: 58%
+Humidity: 64%
 
 Wind Direction: S
 
