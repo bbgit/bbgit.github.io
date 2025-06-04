@@ -1,12 +1,12 @@
-### Conditions as of June 4, 2025 at 12:44:44 AM CDT 
+### Conditions as of June 4, 2025 at 12:50:04 AM CDT 
 
-Temperature: 62.80 &deg;F
+Temperature: 62.70 &deg;F
 
-Feels like: 62.80 &deg;F
+Feels like: 62.70 &deg;F
 
 Humidity: 98%
 
-Wind Direction: S
+Wind Direction: SSW
 
 Windspeed: 0.0 mph
 
