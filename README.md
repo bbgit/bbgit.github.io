@@ -1,12 +1,12 @@
-### Conditions as of June 5, 2025 at 3:06:37 PM CDT 
+### Conditions as of June 5, 2025 at 3:11:57 PM CDT 
 
-Temperature: 88.80 &deg;F
+Temperature: 90.20 &deg;F
 
-Feels like: 88.80 &deg;F
+Feels like: 90.20 &deg;F
 
-Humidity: 59%
+Humidity: 54%
 
-Wind Direction: WSW
+Wind Direction: ENE
 
 Windspeed: 0.2 mph
 
