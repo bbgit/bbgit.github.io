@@ -1,10 +1,10 @@
-### Conditions as of June 5, 2025 at 7:44:14 PM CDT 
+### Conditions as of June 5, 2025 at 7:49:33 PM CDT 
 
-Temperature: 73.60 &deg;F
+Temperature: 73.50 &deg;F
 
-Feels like: 73.60 &deg;F
+Feels like: 73.50 &deg;F
 
-Humidity: 92%
+Humidity: 93%
 
 Wind Direction: SSW
 
