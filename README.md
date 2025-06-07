@@ -1,12 +1,12 @@
-### Conditions as of June 7, 2025 at 4:55:42 PM CDT 
+### Conditions as of June 7, 2025 at 5:01:02 PM CDT 
 
 Temperature: 74.20 &deg;F
 
 Feels like: 74.20 &deg;F
 
-Humidity: 95%
+Humidity: 96%
 
-Wind Direction: E
+Wind Direction: SSW
 
 Windspeed: 0.0 mph
 
