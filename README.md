@@ -1,12 +1,12 @@
-### Conditions as of June 7, 2025 at 12:44:46 PM CDT 
+### Conditions as of June 7, 2025 at 12:50:06 PM CDT 
 
-Temperature: 84.20 &deg;F
+Temperature: 84.50 &deg;F
 
-Feels like: 84.20 &deg;F
+Feels like: 84.50 &deg;F
 
-Humidity: 73%
+Humidity: 75%
 
-Wind Direction: W
+Wind Direction: NW
 
 Windspeed: 0.0 mph
 
