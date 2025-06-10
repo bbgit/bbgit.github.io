@@ -1,16 +1,16 @@
-### Conditions as of June 10, 2025 at 10:28:32 AM CDT 
+### Conditions as of June 10, 2025 at 10:33:52 AM CDT 
 
-Temperature: 75.00 &deg;F
+Temperature: 76.60 &deg;F
 
-Feels like: 75.00 &deg;F
+Feels like: 76.60 &deg;F
 
-Humidity: 86%
+Humidity: 80%
 
-Wind Direction: NNW
+Wind Direction: ENE
 
-Windspeed: 0.0 mph
+Windspeed: 2.0 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 2.9 mph
 
 ---
 
