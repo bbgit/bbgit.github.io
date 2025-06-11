@@ -1,8 +1,8 @@
-### Conditions as of June 11, 2025 at 3:22:56 AM CDT 
+### Conditions as of June 11, 2025 at 3:28:16 AM CDT 
 
-Temperature: 60.00 &deg;F
+Temperature: 59.90 &deg;F
 
-Feels like: 60.00 &deg;F
+Feels like: 59.90 &deg;F
 
 Humidity: 99%
 
