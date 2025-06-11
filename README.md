@@ -1,4 +1,4 @@
-### Conditions as of June 10, 2025 at 11:54:40 PM CDT 
+### Conditions as of June 11, 2025 at 12:00:00 AM CDT 
 
 Temperature: 62.80 &deg;F
 
