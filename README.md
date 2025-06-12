@@ -1,12 +1,12 @@
-### Conditions as of June 12, 2025 at 11:19:45 AM CDT 
+### Conditions as of June 12, 2025 at 11:25:04 AM CDT 
 
-Temperature: 85.00 &deg;F
+Temperature: 84.90 &deg;F
 
-Feels like: 85.00 &deg;F
+Feels like: 84.90 &deg;F
 
-Humidity: 75%
+Humidity: 73%
 
-Wind Direction: SE
+Wind Direction: ENE
 
 Windspeed: 0.4 mph
 
