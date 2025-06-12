@@ -1,8 +1,8 @@
-### Conditions as of June 12, 2025 at 1:00:00 AM CDT 
+### Conditions as of June 12, 2025 at 1:05:20 AM CDT 
 
-Temperature: 64.10 &deg;F
+Temperature: 64.00 &deg;F
 
-Feels like: 64.10 &deg;F
+Feels like: 64.00 &deg;F
 
 Humidity: 99%
 
