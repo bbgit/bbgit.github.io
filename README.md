@@ -1,10 +1,10 @@
-### Conditions as of June 13, 2025 at 8:04:01 AM CDT 
+### Conditions as of June 13, 2025 at 8:09:21 AM CDT 
 
-Temperature: 72.70 &deg;F
+Temperature: 73.20 &deg;F
 
-Feels like: 72.70 &deg;F
+Feels like: 73.20 &deg;F
 
-Humidity: 99%
+Humidity: 98%
 
 Wind Direction: ESE
 
