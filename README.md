@@ -1,4 +1,4 @@
-### Conditions as of June 13, 2025 at 11:53:53 PM CDT 
+### Conditions as of June 13, 2025 at 11:59:13 PM CDT 
 
 Temperature: 66.80 &deg;F
 
