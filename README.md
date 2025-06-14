@@ -1,16 +1,16 @@
-### Conditions as of June 14, 2025 at 11:33:05 AM CDT 
+### Conditions as of June 14, 2025 at 11:38:25 AM CDT 
 
-Temperature: 79.00 &deg;F
+Temperature: 79.10 &deg;F
 
-Feels like: 79.00 &deg;F
+Feels like: 79.10 &deg;F
 
-Humidity: 85%
+Humidity: 87%
 
-Wind Direction: E
+Wind Direction: S
 
-Windspeed: 1.1 mph
+Windspeed: 1.3 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 2.9 mph
 
 ---
 
