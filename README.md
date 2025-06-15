@@ -1,4 +1,4 @@
-### Conditions as of June 15, 2025 at 7:07:30 AM CDT 
+### Conditions as of June 15, 2025 at 7:12:50 AM CDT 
 
 Temperature: 70.90 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 70.90 &deg;F
 
 Humidity: 99%
 
-Wind Direction: SW
+Wind Direction: SSW
 
 Windspeed: 0.0 mph
 
