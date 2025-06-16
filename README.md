@@ -1,16 +1,16 @@
-### Conditions as of June 16, 2025 at 2:52:34 PM CDT 
+### Conditions as of June 16, 2025 at 2:57:54 PM CDT 
 
-Temperature: 89.30 &deg;F
+Temperature: 89.20 &deg;F
 
-Feels like: 89.30 &deg;F
+Feels like: 89.20 &deg;F
 
-Humidity: 72%
+Humidity: 74%
 
-Wind Direction: NW
+Wind Direction: NNE
 
-Windspeed: 0.0 mph
+Windspeed: 1.3 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 2.2 mph
 
 ---
 
