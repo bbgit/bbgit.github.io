@@ -1,8 +1,8 @@
-### Conditions as of June 20, 2025 at 6:56:36 PM CDT 
+### Conditions as of June 20, 2025 at 7:01:56 PM CDT 
 
-Temperature: 72.80 &deg;F
+Temperature: 72.60 &deg;F
 
-Feels like: 72.80 &deg;F
+Feels like: 72.60 &deg;F
 
 Humidity: 91%
 
