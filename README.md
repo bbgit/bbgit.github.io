@@ -1,12 +1,12 @@
-### Conditions as of June 24, 2025 at 3:25:42 PM CDT 
+### Conditions as of June 24, 2025 at 3:31:02 PM CDT 
 
-Temperature: 97.80 &deg;F
+Temperature: 98.30 &deg;F
 
-Feels like: 97.80 &deg;F
+Feels like: 98.30 &deg;F
 
-Humidity: 58%
+Humidity: 57%
 
-Wind Direction: WSW
+Wind Direction: WNW
 
 Windspeed: 0.0 mph
 
