@@ -1,8 +1,8 @@
-### Conditions as of June 26, 2025 at 10:01:27 PM CDT 
+### Conditions as of June 26, 2025 at 10:06:48 PM CDT 
 
-Temperature: 76.40 &deg;F
+Temperature: 76.30 &deg;F
 
-Feels like: 76.40 &deg;F
+Feels like: 76.30 &deg;F
 
 Humidity: 99%
 
