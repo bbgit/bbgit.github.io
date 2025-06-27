@@ -1,16 +1,16 @@
-### Conditions as of June 27, 2025 at 9:50:48 AM CDT 
+### Conditions as of June 27, 2025 at 9:56:07 AM CDT 
 
-Temperature: 83.10 &deg;F
+Temperature: 83.70 &deg;F
 
-Feels like: 83.10 &deg;F
+Feels like: 83.70 &deg;F
 
-Humidity: 83%
+Humidity: 82%
 
-Wind Direction: ESE
+Wind Direction: SE
 
-Windspeed: 0.4 mph
+Windspeed: 0.9 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 1.6 mph
 
 ---
 
