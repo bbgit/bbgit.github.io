@@ -1,8 +1,8 @@
-### Conditions as of June 30, 2025 at 2:15:21 AM CDT 
+### Conditions as of June 30, 2025 at 2:20:41 AM CDT 
 
-Temperature: 70.70 &deg;F
+Temperature: 70.50 &deg;F
 
-Feels like: 70.70 &deg;F
+Feels like: 70.50 &deg;F
 
 Humidity: 99%
 
