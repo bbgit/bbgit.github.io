@@ -1,16 +1,16 @@
-### Conditions as of June 30, 2025 at 1:11:21 PM CDT 
+### Conditions as of June 30, 2025 at 1:16:41 PM CDT 
 
-Temperature: 91.50 &deg;F
+Temperature: 92.20 &deg;F
 
-Feels like: 91.50 &deg;F
+Feels like: 92.20 &deg;F
 
-Humidity: 70%
+Humidity: 69%
 
-Wind Direction: ENE
+Wind Direction: NNE
 
-Windspeed: 0.9 mph
+Windspeed: 0.4 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 0.7 mph
 
 ---
 
