@@ -1,16 +1,16 @@
-### Conditions as of July 3, 2025 at 10:21:47 AM CDT 
+### Conditions as of July 3, 2025 at 10:27:06 AM CDT 
 
-Temperature: 79.00 &deg;F
+Temperature: 79.50 &deg;F
 
-Feels like: 79.00 &deg;F
+Feels like: 79.50 &deg;F
 
-Humidity: 76%
+Humidity: 74%
 
-Wind Direction: ENE
+Wind Direction: S
 
-Windspeed: 0.0 mph
+Windspeed: 1.6 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 2.2 mph
 
 ---
 
