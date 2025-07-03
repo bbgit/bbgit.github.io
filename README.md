@@ -1,10 +1,10 @@
-### Conditions as of July 3, 2025 at 2:32:26 PM CDT 
+### Conditions as of July 3, 2025 at 2:37:47 PM CDT 
 
-Temperature: 91.50 &deg;F
+Temperature: 91.20 &deg;F
 
-Feels like: 91.50 &deg;F
+Feels like: 91.20 &deg;F
 
-Humidity: 52%
+Humidity: 47%
 
 Wind Direction: NW
 
