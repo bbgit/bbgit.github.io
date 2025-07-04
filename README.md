@@ -1,8 +1,8 @@
-### Conditions as of July 3, 2025 at 9:12:27 PM CDT 
+### Conditions as of July 3, 2025 at 9:17:46 PM CDT 
 
-Temperature: 70.80 &deg;F
+Temperature: 70.60 &deg;F
 
-Feels like: 70.80 &deg;F
+Feels like: 70.60 &deg;F
 
 Humidity: 97%
 
