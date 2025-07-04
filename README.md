@@ -1,16 +1,16 @@
-### Conditions as of July 4, 2025 at 12:57:15 PM CDT 
+### Conditions as of July 4, 2025 at 1:02:35 PM CDT 
 
-Temperature: 95.70 &deg;F
+Temperature: 95.50 &deg;F
 
-Feels like: 95.70 &deg;F
+Feels like: 95.50 &deg;F
 
 Humidity: 53%
 
-Wind Direction: ENE
+Wind Direction: SSE
 
-Windspeed: 0.0 mph
+Windspeed: 0.7 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 1.6 mph
 
 ---
 
