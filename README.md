@@ -1,16 +1,16 @@
-### Conditions as of July 4, 2025 at 10:32:59 AM CDT 
+### Conditions as of July 4, 2025 at 10:38:19 AM CDT 
 
-Temperature: 83.50 &deg;F
+Temperature: 84.10 &deg;F
 
-Feels like: 83.50 &deg;F
+Feels like: 84.10 &deg;F
 
-Humidity: 74%
+Humidity: 72%
 
-Wind Direction: NE
+Wind Direction: E
 
-Windspeed: 0.0 mph
+Windspeed: 0.7 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 0.7 mph
 
 ---
 
