@@ -1,12 +1,12 @@
-### Conditions as of July 5, 2025 at 1:13:31 AM CDT 
+### Conditions as of July 5, 2025 at 1:18:51 AM CDT 
 
-Temperature: 67.50 &deg;F
+Temperature: 67.40 &deg;F
 
-Feels like: 67.50 &deg;F
+Feels like: 67.40 &deg;F
 
 Humidity: 99%
 
-Wind Direction: SW
+Wind Direction: WSW
 
 Windspeed: 0.0 mph
 
