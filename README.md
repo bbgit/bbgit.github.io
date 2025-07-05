@@ -1,8 +1,8 @@
-### Conditions as of July 4, 2025 at 8:25:31 PM CDT 
+### Conditions as of July 4, 2025 at 8:30:51 PM CDT 
 
-Temperature: 72.90 &deg;F
+Temperature: 72.60 &deg;F
 
-Feels like: 72.90 &deg;F
+Feels like: 72.60 &deg;F
 
 Humidity: 94%
 
