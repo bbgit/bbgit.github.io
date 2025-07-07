@@ -1,16 +1,16 @@
-### Conditions as of July 7, 2025 at 2:25:49 PM CDT 
+### Conditions as of July 7, 2025 at 2:31:09 PM CDT 
 
-Temperature: 88.70 &deg;F
+Temperature: 88.80 &deg;F
 
-Feels like: 88.70 &deg;F
+Feels like: 88.80 &deg;F
 
-Humidity: 66%
+Humidity: 69%
 
-Wind Direction: NE
+Wind Direction: SW
 
-Windspeed: 0.9 mph
+Windspeed: 0.4 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 0.7 mph
 
 ---
 
