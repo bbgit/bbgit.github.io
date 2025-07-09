@@ -1,4 +1,4 @@
-### Conditions as of July 9, 2025 at 4:24:30 PM CDT 
+### Conditions as of July 9, 2025 at 4:29:50 PM CDT 
 
 Temperature: 86.30 &deg;F
 
@@ -8,9 +8,9 @@ Humidity: 74%
 
 Wind Direction: NW
 
-Windspeed: 0.4 mph
+Windspeed: 0.9 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 1.6 mph
 
 ---
 
