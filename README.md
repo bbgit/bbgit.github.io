@@ -1,12 +1,12 @@
-### Conditions as of July 10, 2025 at 5:34:06 PM CDT 
+### Conditions as of July 10, 2025 at 5:39:26 PM CDT 
 
-Temperature: 85.10 &deg;F
+Temperature: 84.50 &deg;F
 
-Feels like: 85.10 &deg;F
+Feels like: 84.50 &deg;F
 
-Humidity: 76%
+Humidity: 75%
 
-Wind Direction: NNE
+Wind Direction: W
 
 Windspeed: 0.0 mph
 
