@@ -1,14 +1,14 @@
-### Conditions as of July 12, 2025 at 2:51:11 PM CDT 
+### Conditions as of July 12, 2025 at 2:56:31 PM CDT 
 
-Temperature: 94.70 &deg;F
+Temperature: 94.30 &deg;F
 
-Feels like: 94.70 &deg;F
+Feels like: 94.30 &deg;F
 
-Humidity: 61%
+Humidity: 58%
 
-Wind Direction: NNW
+Wind Direction: E
 
-Windspeed: 1.3 mph
+Windspeed: 1.1 mph
 
 Wind Gust: 1.6 mph
 
