@@ -1,14 +1,14 @@
-### Conditions as of July 12, 2025 at 9:03:59 AM CDT 
+### Conditions as of July 12, 2025 at 9:09:19 AM CDT 
 
-Temperature: 80.20 &deg;F
+Temperature: 80.50 &deg;F
 
-Feels like: 80.20 &deg;F
+Feels like: 80.50 &deg;F
 
-Humidity: 87%
+Humidity: 86%
 
-Wind Direction: ESE
+Wind Direction: ENE
 
-Windspeed: 0.9 mph
+Windspeed: 1.1 mph
 
 Wind Gust: 1.6 mph
 
