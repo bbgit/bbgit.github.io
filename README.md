@@ -1,12 +1,12 @@
-### Conditions as of July 16, 2025 at 2:22:25 PM CDT 
+### Conditions as of July 16, 2025 at 2:27:45 PM CDT 
 
-Temperature: 73.20 &deg;F
+Temperature: 73.60 &deg;F
 
-Feels like: 73.20 &deg;F
+Feels like: 73.60 &deg;F
 
 Humidity: 97%
 
-Wind Direction: ENE
+Wind Direction: NNE
 
 Windspeed: 0.0 mph
 
