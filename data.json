@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-15 21:06:00",
+  "timestamp": "2025-07-15 21:11:20",
   "direction": "NNW",
   "windDegrees": "340",
   "speedMPH": "0.0",
@@ -7,7 +7,7 @@
   "speedMetersPerSec": 0,
   "gustSpeedMetersPerSec": 0,
   "temperatureCelsius": "24.83",
-  "humidity": "97",
+  "humidity": "98",
   "feelsLike": {
     "windChillTempF": "76.70",
     "tempF": "76.70",
