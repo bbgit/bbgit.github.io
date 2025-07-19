@@ -1,4 +1,4 @@
-### Conditions as of July 18, 2025 at 8:33:38 PM CDT 
+### Conditions as of July 18, 2025 at 8:38:58 PM CDT 
 
 Temperature: 72.60 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 72.60 &deg;F
 
 Humidity: 99%
 
-Wind Direction: NW
+Wind Direction: SW
 
 Windspeed: 0.0 mph
 
