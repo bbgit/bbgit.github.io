@@ -1,8 +1,8 @@
-### Conditions as of July 19, 2025 at 7:35:14 AM CDT 
+### Conditions as of July 19, 2025 at 7:40:34 AM CDT 
 
-Temperature: 73.10 &deg;F
+Temperature: 73.30 &deg;F
 
-Feels like: 73.10 &deg;F
+Feels like: 73.30 &deg;F
 
 Humidity: 99%
 
