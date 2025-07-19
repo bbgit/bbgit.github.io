@@ -1,12 +1,12 @@
-### Conditions as of July 19, 2025 at 9:53:54 AM CDT 
+### Conditions as of July 19, 2025 at 9:59:14 AM CDT 
 
-Temperature: 78.80 &deg;F
+Temperature: 79.10 &deg;F
 
-Feels like: 78.80 &deg;F
+Feels like: 79.10 &deg;F
 
-Humidity: 95%
+Humidity: 96%
 
-Wind Direction: ENE
+Wind Direction: ESE
 
 Windspeed: 0.0 mph
 
