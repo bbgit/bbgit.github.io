@@ -1,8 +1,8 @@
-### Conditions as of July 20, 2025 at 10:52:51 PM CDT 
+### Conditions as of July 20, 2025 at 10:58:11 PM CDT 
 
-Temperature: 75.40 &deg;F
+Temperature: 75.30 &deg;F
 
-Feels like: 75.40 &deg;F
+Feels like: 75.30 &deg;F
 
 Humidity: 99%
 
