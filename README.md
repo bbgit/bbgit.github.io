@@ -1,12 +1,12 @@
-### Conditions as of July 22, 2025 at 12:04:19 PM CDT 
+### Conditions as of July 22, 2025 at 12:09:40 PM CDT 
 
-Temperature: 84.80 &deg;F
+Temperature: 84.90 &deg;F
 
-Feels like: 84.80 &deg;F
+Feels like: 84.90 &deg;F
 
 Humidity: 83%
 
-Wind Direction: ESE
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
