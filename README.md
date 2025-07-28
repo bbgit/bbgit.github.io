@@ -1,16 +1,16 @@
-### Conditions as of July 28, 2025 at 12:36:54 PM CDT 
+### Conditions as of July 28, 2025 at 12:42:14 PM CDT 
 
-Temperature: 93.00 &deg;F
+Temperature: 93.70 &deg;F
 
-Feels like: 93.00 &deg;F
+Feels like: 93.70 &deg;F
 
-Humidity: 69%
+Humidity: 72%
 
-Wind Direction: NE
+Wind Direction: WSW
 
-Windspeed: 0.0 mph
+Windspeed: 0.7 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 0.7 mph
 
 ---
 
