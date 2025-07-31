@@ -1,8 +1,8 @@
-### Conditions as of July 31, 2025 at 6:37:28 PM CDT 
+### Conditions as of July 31, 2025 at 6:42:48 PM CDT 
 
-Temperature: 81.70 &deg;F
+Temperature: 81.20 &deg;F
 
-Feels like: 81.70 &deg;F
+Feels like: 81.20 &deg;F
 
 Humidity: 85%
 
