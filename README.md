@@ -1,8 +1,8 @@
-### Conditions as of August 1, 2025 at 10:27:36 PM CDT 
+### Conditions as of August 1, 2025 at 10:32:56 PM CDT 
 
-Temperature: 70.20 &deg;F
+Temperature: 70.10 &deg;F
 
-Feels like: 70.20 &deg;F
+Feels like: 70.10 &deg;F
 
 Humidity: 96%
 
