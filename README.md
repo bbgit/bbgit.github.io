@@ -1,12 +1,12 @@
-### Conditions as of August 2, 2025 at 2:06:33 PM CDT 
+### Conditions as of August 2, 2025 at 2:11:53 PM CDT 
 
 Temperature: 77.60 &deg;F
 
 Feels like: 77.60 &deg;F
 
-Humidity: 81%
+Humidity: 83%
 
-Wind Direction: NNW
+Wind Direction: NNE
 
 Windspeed: 0.0 mph
 
