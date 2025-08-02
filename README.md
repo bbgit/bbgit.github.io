@@ -1,8 +1,8 @@
-### Conditions as of August 2, 2025 at 5:50:33 AM CDT 
+### Conditions as of August 2, 2025 at 5:55:52 AM CDT 
 
-Temperature: 65.50 &deg;F
+Temperature: 65.80 &deg;F
 
-Feels like: 65.50 &deg;F
+Feels like: 65.80 &deg;F
 
 Humidity: 99%
 
