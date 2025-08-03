@@ -1,8 +1,8 @@
-### Conditions as of August 3, 2025 at 1:29:13 PM CDT 
+### Conditions as of August 3, 2025 at 1:34:33 PM CDT 
 
-Temperature: 71.90 &deg;F
+Temperature: 71.70 &deg;F
 
-Feels like: 71.90 &deg;F
+Feels like: 71.70 &deg;F
 
 Humidity: 99%
 
