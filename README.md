@@ -1,12 +1,12 @@
-### Conditions as of August 7, 2025 at 6:45:15 AM CDT 
+### Conditions as of August 7, 2025 at 6:50:34 AM CDT 
 
-Temperature: 67.20 &deg;F
+Temperature: 67.30 &deg;F
 
-Feels like: 67.20 &deg;F
+Feels like: 67.30 &deg;F
 
 Humidity: 99%
 
-Wind Direction: NNW
+Wind Direction: WNW
 
 Windspeed: 0.0 mph
 
