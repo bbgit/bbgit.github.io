@@ -1,8 +1,8 @@
-### Conditions as of August 10, 2025 at 5:27:56 AM CDT 
+### Conditions as of August 10, 2025 at 5:33:16 AM CDT 
 
-Temperature: 65.90 &deg;F
+Temperature: 65.80 &deg;F
 
-Feels like: 65.90 &deg;F
+Feels like: 65.80 &deg;F
 
 Humidity: 99%
 
