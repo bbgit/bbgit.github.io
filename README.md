@@ -1,8 +1,8 @@
-### Conditions as of August 14, 2025 at 9:14:22 AM CDT 
+### Conditions as of August 14, 2025 at 9:19:42 AM CDT 
 
-Temperature: 76.50 &deg;F
+Temperature: 77.00 &deg;F
 
-Feels like: 76.50 &deg;F
+Feels like: 77.00 &deg;F
 
 Humidity: 94%
 
