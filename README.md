@@ -1,16 +1,16 @@
-### Conditions as of August 15, 2025 at 12:01:50 PM CDT 
+### Conditions as of August 15, 2025 at 12:07:10 PM CDT 
 
-Temperature: 92.30 &deg;F
+Temperature: 91.70 &deg;F
 
-Feels like: 92.30 &deg;F
+Feels like: 91.70 &deg;F
 
 Humidity: 61%
 
-Wind Direction: NNE
+Wind Direction: NNW
 
-Windspeed: 0.9 mph
+Windspeed: 2.5 mph
 
-Wind Gust: 1.6 mph
+Wind Gust: 2.9 mph
 
 ---
 
