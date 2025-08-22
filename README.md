@@ -1,8 +1,8 @@
-### Conditions as of August 22, 2025 at 6:26:26 PM CDT 
+### Conditions as of August 22, 2025 at 6:31:46 PM CDT 
 
-Temperature: 78.50 &deg;F
+Temperature: 78.30 &deg;F
 
-Feels like: 78.50 &deg;F
+Feels like: 78.30 &deg;F
 
 Humidity: 84%
 
