@@ -1,8 +1,8 @@
-### Conditions as of August 27, 2025 at 3:33:08 AM CDT 
+### Conditions as of August 27, 2025 at 3:38:28 AM CDT 
 
-Temperature: 50.70 &deg;F
+Temperature: 50.60 &deg;F
 
-Feels like: 50.70 &deg;F
+Feels like: 50.60 &deg;F
 
 Humidity: 99%
 
