@@ -1,4 +1,4 @@
-### Conditions as of August 27, 2025 at 5:03:48 AM CDT 
+### Conditions as of August 27, 2025 at 5:09:08 AM CDT 
 
 Temperature: 50.10 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 50.10 &deg;F
 
 Humidity: 99%
 
-Wind Direction: NW
+Wind Direction: N
 
 Windspeed: 0.0 mph
 
