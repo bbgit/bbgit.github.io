@@ -1,4 +1,4 @@
-### Conditions as of August 27, 2025 at 7:55:01 AM CDT 
+### Conditions as of August 27, 2025 at 8:00:20 AM CDT 
 
 Temperature: 52.90 &deg;F
 
