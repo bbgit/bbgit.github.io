@@ -1,12 +1,12 @@
-### Conditions as of August 29, 2025 at 11:32:38 AM CDT 
+### Conditions as of August 29, 2025 at 11:37:58 AM CDT 
 
-Temperature: 86.10 &deg;F
+Temperature: 87.50 &deg;F
 
-Feels like: 86.10 &deg;F
+Feels like: 87.50 &deg;F
 
-Humidity: 44%
+Humidity: 43%
 
-Wind Direction: SSE
+Wind Direction: E
 
 Windspeed: 0.9 mph
 
