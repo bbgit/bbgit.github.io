@@ -1,12 +1,12 @@
-### Conditions as of August 30, 2025 at 7:51:19 PM CDT 
+### Conditions as of August 30, 2025 at 7:56:39 PM CDT 
 
-Temperature: 65.50 &deg;F
+Temperature: 65.20 &deg;F
 
-Feels like: 65.50 &deg;F
+Feels like: 65.20 &deg;F
 
-Humidity: 72%
+Humidity: 73%
 
-Wind Direction: WSW
+Wind Direction: SW
 
 Windspeed: 0.0 mph
 
