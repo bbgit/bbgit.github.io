@@ -1,8 +1,8 @@
-### Conditions as of August 31, 2025 at 10:27:19 PM CDT 
+### Conditions as of August 31, 2025 at 10:32:39 PM CDT 
 
-Temperature: 59.20 &deg;F
+Temperature: 59.00 &deg;F
 
-Feels like: 59.20 &deg;F
+Feels like: 59.00 &deg;F
 
 Humidity: 93%
 
