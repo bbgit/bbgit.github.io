@@ -1,4 +1,4 @@
-### Conditions as of September 1, 2025 at 3:58:16 AM CDT 
+### Conditions as of September 1, 2025 at 4:03:36 AM CDT 
 
 Temperature: 56.60 &deg;F
 
