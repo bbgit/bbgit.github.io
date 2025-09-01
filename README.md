@@ -1,16 +1,16 @@
-### Conditions as of September 1, 2025 at 2:44:07 PM CDT 
+### Conditions as of September 1, 2025 at 2:49:28 PM CDT 
 
-Temperature: 82.20 &deg;F
+Temperature: 82.50 &deg;F
 
-Feels like: 82.20 &deg;F
+Feels like: 82.50 &deg;F
 
-Humidity: 61%
+Humidity: 60%
 
-Wind Direction: NW
+Wind Direction: E
 
-Windspeed: 0.0 mph
+Windspeed: 1.1 mph
 
-Wind Gust: 0.0 mph
+Wind Gust: 1.6 mph
 
 ---
 
