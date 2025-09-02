@@ -1,8 +1,8 @@
-### Conditions as of September 2, 2025 at 1:09:44 AM CDT 
+### Conditions as of September 2, 2025 at 1:15:04 AM CDT 
 
-Temperature: 59.50 &deg;F
+Temperature: 59.30 &deg;F
 
-Feels like: 59.50 &deg;F
+Feels like: 59.30 &deg;F
 
 Humidity: 98%
 
