@@ -1,12 +1,12 @@
-### Conditions as of September 3, 2025 at 6:43:04 AM CDT 
+### Conditions as of September 3, 2025 at 6:48:40 AM CDT 
 
-Temperature: 60.00 &deg;F
+Temperature: 60.10 &deg;F
 
-Feels like: 60.00 &deg;F
+Feels like: 60.10 &deg;F
 
 Humidity: 99%
 
-Wind Direction: N
+Wind Direction: NW
 
 Windspeed: 0.0 mph
 
