@@ -1,12 +1,12 @@
-### Conditions as of September 5, 2025 at 1:38:34 PM CDT 
+### Conditions as of September 5, 2025 at 1:43:54 PM CDT 
 
-Temperature: 88.40 &deg;F
+Temperature: 87.50 &deg;F
 
-Feels like: 88.40 &deg;F
+Feels like: 87.50 &deg;F
 
-Humidity: 65%
+Humidity: 64%
 
-Wind Direction: NNE
+Wind Direction: ENE
 
 Windspeed: 2.5 mph
 
