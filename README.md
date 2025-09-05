@@ -1,16 +1,16 @@
-### Conditions as of September 5, 2025 at 10:47:54 AM CDT 
+### Conditions as of September 5, 2025 at 10:53:14 AM CDT 
 
-Temperature: 83.70 &deg;F
+Temperature: 83.90 &deg;F
 
-Feels like: 83.70 &deg;F
+Feels like: 83.90 &deg;F
 
-Humidity: 78%
+Humidity: 76%
 
-Wind Direction: SE
+Wind Direction: ENE
 
-Windspeed: 0.4 mph
+Windspeed: 1.3 mph
 
-Wind Gust: 0.7 mph
+Wind Gust: 1.6 mph
 
 ---
 
