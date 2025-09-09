@@ -1,12 +1,12 @@
-### Conditions as of September 9, 2025 at 10:33:32 AM CDT 
+### Conditions as of September 9, 2025 at 10:38:53 AM CDT 
 
-Temperature: 70.50 &deg;F
+Temperature: 71.30 &deg;F
 
-Feels like: 70.50 &deg;F
+Feels like: 71.30 &deg;F
 
-Humidity: 78%
+Humidity: 75%
 
-Wind Direction: ENE
+Wind Direction: NE
 
 Windspeed: 0.0 mph
 
