@@ -1,12 +1,12 @@
-### Conditions as of September 9, 2025 at 2:32:28 AM CDT 
+### Conditions as of September 9, 2025 at 2:37:48 AM CDT 
 
-Temperature: 51.30 &deg;F
+Temperature: 51.20 &deg;F
 
-Feels like: 51.30 &deg;F
+Feels like: 51.20 &deg;F
 
 Humidity: 99%
 
-Wind Direction: WSW
+Wind Direction: NNW
 
 Windspeed: 0.0 mph
 
