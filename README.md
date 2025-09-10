@@ -1,8 +1,8 @@
-### Conditions as of September 9, 2025 at 11:34:20 PM CDT 
+### Conditions as of September 9, 2025 at 11:39:41 PM CDT 
 
-Temperature: 56.70 &deg;F
+Temperature: 56.60 &deg;F
 
-Feels like: 56.70 &deg;F
+Feels like: 56.60 &deg;F
 
 Humidity: 99%
 
