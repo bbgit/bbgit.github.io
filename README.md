@@ -1,12 +1,12 @@
-### Conditions as of September 10, 2025 at 11:30:05 PM CDT 
+### Conditions as of September 10, 2025 at 11:35:25 PM CDT 
 
 Temperature: 62.80 &deg;F
 
 Feels like: 62.80 &deg;F
 
-Humidity: 99%
+Humidity: 98%
 
-Wind Direction: N
+Wind Direction: WNW
 
 Windspeed: 0.0 mph
 
