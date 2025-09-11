@@ -1,4 +1,4 @@
-### Conditions as of September 11, 2025 at 3:41:01 AM CDT 
+### Conditions as of September 11, 2025 at 3:46:21 AM CDT 
 
 Temperature: 64.30 &deg;F
 
@@ -6,7 +6,7 @@ Feels like: 64.30 &deg;F
 
 Humidity: 99%
 
-Wind Direction: SW
+Wind Direction: SSW
 
 Windspeed: 0.0 mph
 
